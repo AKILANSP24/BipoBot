@@ -9,14 +9,14 @@ joblib==1.4.2
 
 # --- NLP & Sentiment Analysis ---
 vaderSentiment==3.3.2
-transformers==4.43.3
+transformers==4.44.2
 torch>=2.2.0
-tokenizers==0.15.2
+tokenizers==0.20.0
 sentencepiece==0.2.0
 
 # --- Utility & Requests ---
 requests==2.32.3
 
-# --- Optional: For Voice / Telegram (future add-ons) ---
+# --- Optional (future add-ons) ---
 SpeechRecognition==3.10.4
 python-telegram-bot==20.8
